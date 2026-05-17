@@ -1,8 +1,6 @@
 # bike-sales-sql-project
-
 ## Objective
 The goal of this project was to understand what factors actually influence whether a customer buys a bike or not.
-
 ## Approach
 
 I started with Excel, where I explored the data from multiple angles:
